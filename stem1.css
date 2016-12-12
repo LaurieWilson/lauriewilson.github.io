@@ -1,0 +1,84 @@
+@charset "utf-8";
+header.row h1 {
+	color: #BEBCEF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-weight: normal;
+	font-size: 700%;
+	text-align: center;
+	text-shadow: 0px 5px 5px rgba(0,0,0,0.40);
+	text-decoration: none;
+	letter-spacing: 10px;
+}
+header.row p {
+	color: #BEBCEF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-weight: bold;
+	font-size: x-large;
+	text-align: center;
+	text-shadow: 0px 3px 5px rgba(0,0,0,0.40);
+	letter-spacing: 11px;
+}
+nav.row .navbar.navbar-default {
+	background-color: #BEBCEF;
+	background-image: -webkit-linear-gradient(270deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+}
+
+header.row {
+	padding: 10px 0px;
+	background-image: url(Images/background-14773_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+nav.row .nav.navbar-nav > li > a:link  ,nav.row .nav.navbar-nav > li >a:visited  {
+	border-top: 1px solid #056E98;
+	border-right: solid 1px #037;
+	border-bottom: solid 1px #037;
+	border-left: 1px solid #056E98;
+	color: #037;
+	font-weight: bold;
+}
+nav.row .nav.navbar-nav > li > a:hover {
+	background-image: -webkit-linear-gradient(90deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: -moz-linear-gradient(90deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: -o-linear-gradient(90deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	background-image: linear-gradient(0deg,rgba(190,188,239,1.00) 0%,rgba(147,147,183,1.00) 100%);
+	color: #FFF;
+}
+nav.row .nav.navbar-nav {
+	margin: 0px auto;
+	width: 715px;
+	float: none;
+}
+nav.row .navbar {
+	margin-bottom: 0px;
+}
+article.row section h2 {
+	color: #037;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-align: center;
+}
+article.row section img {
+
+
+}
+article.row section blockquote {
+	padding: 0px;
+	margin: 0px 0px 20px 0px;
+}
+article.row section blockquote p {
+	padding: 0px .5em;
+	margin: 0px 0px 5px 0px;
+	text-indent: -0.5em;
+}
+article.row section blockquote cite {
+	padding: 0px 10px;
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+body {
+	background-color: #001A33;
+}
