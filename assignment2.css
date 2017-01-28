@@ -109,19 +109,9 @@ nav.row .nav.navbar-nav li a:visited  {
 
 }
 nav.row .nav.navbar-nav {
-	margin-top: 0;
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: 0;
-
-
-
-
-auto;
-	width: 750px;
 	float: none;
 	vertical-align: middle;
-	height: auto;
+	display: inline-block;
 }
 section.row blockquote {
 	padding: 0px;
