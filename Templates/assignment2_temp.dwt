@@ -16,7 +16,7 @@
 	background-repeat: repeat;
 }
     </style>
-	<link href="../assignment2.css" rel="stylesheet" type="text/css">
+	<link href="../christostiolkas.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
 	body,td,th {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
